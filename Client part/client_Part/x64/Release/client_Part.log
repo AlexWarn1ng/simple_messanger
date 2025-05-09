@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\rolek\source\repos\client_Part\client_Part\MyForm.h(264,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  client_Part.vcxproj -> C:\Users\rolek\source\repos\client_Part\x64\Release\client_Part.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

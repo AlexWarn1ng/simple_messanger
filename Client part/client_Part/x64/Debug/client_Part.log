@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+C:\Users\rolek\source\repos\client_Part\client_Part\MyForm.cpp(3,17): error C2871: client_Part: пространство имен с таким именем не существует
+C:\Users\rolek\source\repos\client_Part\client_Part\MyForm.cpp(6,2): error C2653: Application: не является именем класса или пространства имен
+C:\Users\rolek\source\repos\client_Part\client_Part\MyForm.cpp(6,15): error C3861: EnableVisualStyles: идентификатор не найден
+C:\Users\rolek\source\repos\client_Part\client_Part\MyForm.cpp(7,2): error C2653: Application: не является именем класса или пространства имен
+C:\Users\rolek\source\repos\client_Part\client_Part\MyForm.cpp(7,15): error C3861: SetCompatibleTextRenderingDefault: идентификатор не найден
+C:\Users\rolek\source\repos\client_Part\client_Part\MyForm.cpp(8,2): error C2653: Application: не является именем класса или пространства имен
+C:\Users\rolek\source\repos\client_Part\client_Part\MyForm.cpp(8,25): error C2061: синтаксическая ошибка: идентификатор "MyForm"
+C:\Users\rolek\source\repos\client_Part\client_Part\MyForm.cpp(8,15): error C3861: Run: идентификатор не найден
+  Создание кода...

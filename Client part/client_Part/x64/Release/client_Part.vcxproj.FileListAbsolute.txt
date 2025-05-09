@@ -1,0 +1,3 @@
+C:\Users\rolek\source\repos\client_Part\client_Part\x64\Release\client_Part.vcxproj.AssemblyReference.cache
+C:\Users\rolek\source\repos\client_Part\client_Part\x64\Release\clientPart.MyForm.resources
+C:\Users\rolek\source\repos\client_Part\client_Part\x64\Release\client_Part.vcxproj.GenerateResource.cache
