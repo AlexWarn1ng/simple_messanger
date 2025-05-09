@@ -33,10 +33,6 @@ The application demonstrates:
 ### Server
 1. Compile with a C++ compiler that supports C++11 (tested with Visual Studio/MSVC)
 2. Requires linking with `ws2_32.lib` (Winsock library)
-3. Command line compilation example (if using g++):
-   ```
-   g++ server.cpp -o server -lws2_32 -std=c++11
-   ```
 
 ### Client
 1. This is a Windows Forms application and requires .NET framework
