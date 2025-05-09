@@ -1,7 +1,5 @@
 # simple_messanger
 
-# Readme for Simple C++ Chat Application
-
 ## Overview
 
 This is a simple client-server chat application written in C++. The application consists of:
